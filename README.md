@@ -38,5 +38,5 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DraganStevanovic&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Dragan888&theme=dark&background=000000)](https://git.io/streak-stats)
 ![Github Trophy](https://github-profile-trophy.vercel.app/?username=codemaker2015&theme=vision-friendly-dark)
